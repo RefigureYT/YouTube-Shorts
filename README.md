@@ -3,9 +3,9 @@
 # **LICENÇA DE USO DO SOFTWARE**  
 
 ## **1. DEFINIÇÕES**  
-**1.1.** "Software" refere-se ao código-fonte, executável e qualquer material relacionado desenvolvido por [Seu Nome ou Empresa].  
+**1.1.** "Software" refere-se ao código-fonte, executável e qualquer material relacionado desenvolvido por Kelvin Mattos.  
 **1.2.** "Licenciado" refere-se ao indivíduo ou empresa que obteve permissão explícita para usar o Software.  
-**1.3.** "Licenciante" refere-se a [Seu Nome ou Empresa], titular exclusivo dos direitos do Software.  
+**1.3.** "Licenciante" refere-se a Kelvin Mattos, titular exclusivo dos direitos do Software.  
 
 ## **2. CONCESSÃO DE LICENÇA**  
 **2.1.** O Licenciante concede ao Licenciado uma licença **não exclusiva, intransferível e limitada** para uso do Software, **somente mediante autorização expressa**.  
@@ -34,5 +34,5 @@
 **7.2.** Em caso de rescisão, o Licenciado deve cessar imediatamente o uso do Software e remover todos os arquivos associados.  
 
 ## **8. DISPOSIÇÕES FINAIS**  
-**8.1.** Esta licença é regida pelas leis de [Seu País/Estado].  
-**8.2.** Qualquer disputa será resolvida nos tribunais competentes de [Cidade, Estado].  
+**8.1.** Esta licença é regida pelas leis de Brasil.  
+**8.2.** Qualquer disputa será resolvida nos tribunais competentes de Jaú/SP.  
