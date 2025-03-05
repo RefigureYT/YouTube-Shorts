@@ -1,0 +1,52 @@
+# YouTube-Shorts
+
+# **LICENÇA DE USO DO SOFTWARE**  
+
+## **1. DEFINIÇÕES**  
+**1.1.** "Software" refere-se ao código-fonte, executável e qualquer material relacionado desenvolvido por [Seu Nome ou Empresa].  
+**1.2.** "Licenciado" refere-se ao indivíduo ou empresa que obteve permissão explícita para usar o Software.  
+**1.3.** "Licenciante" refere-se a [Seu Nome ou Empresa], titular exclusivo dos direitos do Software.  
+
+## **2. CONCESSÃO DE LICENÇA**  
+**2.1.** O Licenciante concede ao Licenciado uma licença **não exclusiva, intransferível e limitada** para uso do Software, **somente mediante autorização expressa**.  
+**2.2.** O uso do Software sem a autorização prévia do Licenciante é **estritamente proibido**.  
+
+## **3. RESTRIÇÕES**  
+**3.1.** O Licenciado **não pode**:  
+- Distribuir, revender, sublicenciar ou compartilhar o Software com terceiros sem permissão do Licenciante.  
+- Modificar, descompilar, realizar engenharia reversa ou criar produtos derivados do Software.  
+- Usar o Software para fins ilícitos ou que violem os direitos do Licenciante.  
+
+## **4. ATIVAÇÃO E CONTROLE DE USO**  
+**4.1.** O Software pode exigir ativação via chave de licença ou outro mecanismo de verificação fornecido pelo Licenciante.  
+**4.2.** O Licenciante pode revogar a licença caso o Licenciado viole quaisquer termos deste contrato.  
+
+## **5. ATUALIZAÇÕES E SUPORTE**  
+**5.1.** O Licenciante pode fornecer atualizações e suporte **somente a Licenciados autorizados**.  
+**5.2.** O Licenciante **não é obrigado** a fornecer manutenção ou suporte contínuo, a menos que acordado separadamente.  
+
+## **6. RESPONSABILIDADE E LIMITAÇÃO DE GARANTIA**  
+**6.1.** O Software é fornecido "como está", sem garantias de funcionamento contínuo ou compatibilidade com sistemas específicos.  
+**6.2.** O Licenciante não se responsabiliza por danos decorrentes do uso indevido do Software.  
+
+## **7. RESCISÃO**  
+**7.1.** O Licenciante pode rescindir esta licença a qualquer momento caso o Licenciado viole qualquer cláusula deste contrato.  
+**7.2.** Em caso de rescisão, o Licenciado deve cessar imediatamente o uso do Software e remover todos os arquivos associados.  
+
+## **8. DISPOSIÇÕES FINAIS**  
+**8.1.** Esta licença é regida pelas leis de [Seu País/Estado].  
+**8.2.** Qualquer disputa será resolvida nos tribunais competentes de [Cidade, Estado].  
+
+---
+
+### Como Aplicar Esta Licença ao Seu Script:
+- Inclua este documento como um arquivo **LICENSE.txt** na raiz do projeto.
+- No início do seu código, adicione um aviso como:
+  ```python
+  # Copyright (c) [Ano] [Seu Nome ou Empresa]
+  # Uso proibido sem autorização expressa do autor.
+  # Consulte LICENSE.txt para mais informações.
+  ```
+- Se quiser mais segurança, implemente um sistema de ativação via chave de licença.
+
+Se precisar personalizar mais alguma parte, me avise!
