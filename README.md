@@ -36,17 +36,3 @@
 ## **8. DISPOSIÇÕES FINAIS**  
 **8.1.** Esta licença é regida pelas leis de [Seu País/Estado].  
 **8.2.** Qualquer disputa será resolvida nos tribunais competentes de [Cidade, Estado].  
-
----
-
-### Como Aplicar Esta Licença ao Seu Script:
-- Inclua este documento como um arquivo **LICENSE.txt** na raiz do projeto.
-- No início do seu código, adicione um aviso como:
-  ```python
-  # Copyright (c) [Ano] [Seu Nome ou Empresa]
-  # Uso proibido sem autorização expressa do autor.
-  # Consulte LICENSE.txt para mais informações.
-  ```
-- Se quiser mais segurança, implemente um sistema de ativação via chave de licença.
-
-Se precisar personalizar mais alguma parte, me avise!
